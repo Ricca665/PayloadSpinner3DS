@@ -9,7 +9,7 @@ It makes for quick and easy hotswapping of `boot.firm` files, which can be mildl
 It's also pretty useful for those who use multiple CFW and want to swap quickly. PayloadSpinner3DS makes it trivial for one to switch from Luma to Cakes; Yes, Cakes has B9S support - look it up.
 
 ## How do I use this?
-First, make sure you have all relevant CFW files ready on your SD Card.  Put your payloads in `3ds/data/PayloadSpinner3DS/`.  From there, install PayloadSpinner3DS, start it up, and select which payload to set as your `boot.firm`.  The application will give you the option to reboot after your `boot.firm` is replaced.
+First, make sure you have all relevant CFW files ready on your SD Card.  Put your payloads in `3ds/data/PayloadSpinner3DS/payloads`.  From there, install PayloadSpinner3DS, start it up, and select which payload to set as your `boot.firm`.  The application will give you the option to reboot after your `boot.firm` is replaced.
 
 ## Features I want to implement eventually
  - JSON customization (support for custom themes, descriptions for payloads, etc).
